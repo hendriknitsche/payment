@@ -161,3 +161,14 @@ body {
     width: 700px;
   }
 }
+
+td{
+	text-align:left;
+}
+
+.red{
+	color:#f2dede;
+}
+.green{
+	color:#dff0d8;
+}
